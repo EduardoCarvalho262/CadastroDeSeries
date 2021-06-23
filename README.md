@@ -1,6 +1,6 @@
 # Cadastro de Séries - GFT START #2 .NET
 
-Esse projeto é um CRUD realzido com ASP.NET CORE em console .
+Esse projeto é um CRUD realizado com ASP.NET CORE em console .
 
 ## 🚀 Começando
 
